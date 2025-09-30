@@ -13,7 +13,7 @@ Neste repositório você encontrará:
 ## 2. Entendimento do Negócio
 
 - **Setor:** Agroindústria (grãos, farinhas, óleos, rações).  
-- **Objetivo geral:** Avaliar a performance comercial e margens da AgroVita Alimentos.  
+- **Objetivo geral:** Avaliar a performance comercial da AgroVita Alimentos.  
 - **Objetivos específicos:**  
   - Identificar os clientes mais estratégicos e sua contribuição para a receita.  
   - Avaliar a rentabilidade dos produtos e detectar vendas com margem negativa.  
