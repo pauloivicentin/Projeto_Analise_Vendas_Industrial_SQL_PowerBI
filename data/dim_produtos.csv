@@ -1,0 +1,251 @@
+id_produto,nome_produto,categoria,embalagem,linha_produto,custo_ref,preco_ref
+3,Grão 3 - saca 60kg,Grãos,saca 60kg,Tradicional,85.17,110.47
+4,Grão 4 - saca 60kg,Grãos,saca 60kg,Tradicional,87.08,112.95
+14,Grão 14 - saca 60kg,Grãos,saca 60kg,Tradicional,83.67,108.52
+15,Grão 15 - saca 60kg,Grãos,saca 60kg,Tradicional,83.76,108.64
+16,Grão 16 - saca 60kg,Grãos,saca 60kg,Tradicional,77.59,100.64
+17,Grão 17 - saca 60kg,Grãos,saca 60kg,Tradicional,87.83,113.92
+19,Grão 19 - saca 60kg,Grãos,saca 60kg,Tradicional,86.4,112.07
+21,Grão 21 - saca 60kg,Grãos,saca 60kg,Tradicional,93.42,121.17
+23,Grão 23 - saca 60kg,Grãos,saca 60kg,Tradicional,83.03,107.69
+27,Grão 27 - saca 60kg,Grãos,saca 60kg,Tradicional,82.93,107.57
+29,Grão 29 - saca 60kg,Grãos,saca 60kg,Tradicional,90.35,117.19
+31,Grão 31 - saca 60kg,Grãos,saca 60kg,Tradicional,81.21,105.34
+32,Grão 1 - saca 60kg,Grãos,saca 60kg,Premium,106.75,138.47
+33,Grão 2 - saca 60kg,Grãos,saca 60kg,Premium,90.36,117.21
+35,Grão 4 - saca 60kg,Grãos,saca 60kg,Premium,87.88,113.98
+38,Grão 7 - saca 60kg,Grãos,saca 60kg,Premium,109.1,141.51
+41,Grão 10 - saca 60kg,Grãos,saca 60kg,Premium,105.36,136.66
+42,Grão 11 - saca 60kg,Grãos,saca 60kg,Premium,99.22,128.69
+47,Grão 16 - saca 60kg,Grãos,saca 60kg,Premium,102.61,133.09
+51,Grão 20 - saca 60kg,Grãos,saca 60kg,Premium,111.81,145.02
+52,Grão 21 - saca 60kg,Grãos,saca 60kg,Premium,101.73,131.95
+53,Grão 22 - saca 60kg,Grãos,saca 60kg,Premium,100.91,130.89
+54,Grão 23 - saca 60kg,Grãos,saca 60kg,Premium,101.82,132.07
+56,Grão 25 - saca 60kg,Grãos,saca 60kg,Premium,98.44,127.68
+57,Grão 26 - saca 60kg,Grãos,saca 60kg,Premium,91.66,118.89
+58,Grão 27 - saca 60kg,Grãos,saca 60kg,Premium,103.32,134.01
+59,Grão 28 - saca 60kg,Grãos,saca 60kg,Premium,99.73,129.36
+60,Grão 29 - saca 60kg,Grãos,saca 60kg,Premium,107.48,139.41
+61,Grão 30 - saca 60kg,Grãos,saca 60kg,Premium,98.08,127.22
+62,Grão 31 - saca 60kg,Grãos,saca 60kg,Premium,88.83,115.21
+63,Grão 1 - granel,Grãos,granel,Tradicional,84.49,109.59
+66,Grão 4 - granel,Grãos,granel,Tradicional,80.46,104.36
+67,Grão 5 - granel,Grãos,granel,Tradicional,78.91,102.35
+71,Grão 9 - granel,Grãos,granel,Tradicional,92.64,120.16
+74,Grão 12 - granel,Grãos,granel,Tradicional,92.34,119.76
+75,Grão 13 - granel,Grãos,granel,Tradicional,92.67,120.19
+79,Grão 17 - granel,Grãos,granel,Tradicional,84.02,108.97
+80,Grão 18 - granel,Grãos,granel,Tradicional,75.93,98.49
+81,Grão 19 - granel,Grãos,granel,Tradicional,88.34,114.58
+82,Grão 20 - granel,Grãos,granel,Tradicional,89.56,116.17
+83,Grão 21 - granel,Grãos,granel,Tradicional,87.12,113.0
+85,Grão 23 - granel,Grãos,granel,Tradicional,84.0,108.95
+87,Grão 25 - granel,Grãos,granel,Tradicional,83.47,108.27
+89,Grão 27 - granel,Grãos,granel,Tradicional,92.8,120.37
+90,Grão 28 - granel,Grãos,granel,Tradicional,88.41,114.68
+91,Grão 29 - granel,Grãos,granel,Tradicional,87.8,113.88
+92,Grão 30 - granel,Grãos,granel,Tradicional,88.45,114.73
+95,Grão 2 - granel,Grãos,granel,Premium,96.25,124.84
+97,Grão 4 - granel,Grãos,granel,Premium,113.9,147.74
+98,Grão 5 - granel,Grãos,granel,Premium,105.53,136.88
+99,Grão 6 - granel,Grãos,granel,Premium,98.24,127.42
+100,Grão 7 - granel,Grãos,granel,Premium,97.46,126.41
+102,Grão 9 - granel,Grãos,granel,Premium,102.55,133.02
+103,Grão 10 - granel,Grãos,granel,Premium,102.66,133.15
+105,Grão 12 - granel,Grãos,granel,Premium,103.23,133.89
+109,Grão 16 - granel,Grãos,granel,Premium,110.64,143.5
+110,Grão 17 - granel,Grãos,granel,Premium,97.54,126.52
+112,Grão 19 - granel,Grãos,granel,Premium,102.1,132.44
+114,Grão 21 - granel,Grãos,granel,Premium,103.71,134.51
+115,Grão 22 - granel,Grãos,granel,Premium,92.88,120.47
+116,Grão 23 - granel,Grãos,granel,Premium,101.4,131.52
+119,Grão 26 - granel,Grãos,granel,Premium,96.4,125.04
+121,Grão 28 - granel,Grãos,granel,Premium,97.95,127.05
+123,Grão 30 - granel,Grãos,granel,Premium,104.13,135.07
+126,Farinha 2 - saco 25kg,Farinhas,saco 25kg,Tradicional,57.58,82.44
+130,Farinha 6 - saco 25kg,Farinhas,saco 25kg,Tradicional,55.94,80.09
+133,Farinha 9 - saco 25kg,Farinhas,saco 25kg,Tradicional,53.28,76.29
+134,Farinha 10 - saco 25kg,Farinhas,saco 25kg,Tradicional,55.69,79.74
+139,Farinha 15 - saco 25kg,Farinhas,saco 25kg,Tradicional,48.56,69.53
+140,Farinha 16 - saco 25kg,Farinhas,saco 25kg,Tradicional,56.23,80.51
+141,Farinha 17 - saco 25kg,Farinhas,saco 25kg,Tradicional,52.65,75.39
+142,Farinha 18 - saco 25kg,Farinhas,saco 25kg,Tradicional,56.64,81.09
+146,Farinha 22 - saco 25kg,Farinhas,saco 25kg,Tradicional,53.3,76.32
+147,Farinha 23 - saco 25kg,Farinhas,saco 25kg,Tradicional,54.1,77.46
+148,Farinha 24 - saco 25kg,Farinhas,saco 25kg,Tradicional,52.28,74.86
+149,Farinha 25 - saco 25kg,Farinhas,saco 25kg,Tradicional,54.07,77.42
+151,Farinha 27 - saco 25kg,Farinhas,saco 25kg,Tradicional,55.05,78.82
+155,Farinha 31 - saco 25kg,Farinhas,saco 25kg,Tradicional,58.6,83.91
+156,Farinha 1 - saco 25kg,Farinhas,saco 25kg,Premium,71.58,102.48
+158,Farinha 3 - saco 25kg,Farinhas,saco 25kg,Premium,67.85,97.16
+160,Farinha 5 - saco 25kg,Farinhas,saco 25kg,Premium,68.72,98.39
+163,Farinha 8 - saco 25kg,Farinhas,saco 25kg,Premium,72.14,103.3
+164,Farinha 9 - saco 25kg,Farinhas,saco 25kg,Premium,59.07,84.58
+165,Farinha 10 - saco 25kg,Farinhas,saco 25kg,Premium,66.75,95.58
+166,Farinha 11 - saco 25kg,Farinhas,saco 25kg,Premium,69.23,99.13
+169,Farinha 14 - saco 25kg,Farinhas,saco 25kg,Premium,60.73,86.95
+171,Farinha 16 - saco 25kg,Farinhas,saco 25kg,Premium,61.72,88.37
+172,Farinha 17 - saco 25kg,Farinhas,saco 25kg,Premium,65.65,94.0
+173,Farinha 18 - saco 25kg,Farinhas,saco 25kg,Premium,64.55,92.42
+174,Farinha 19 - saco 25kg,Farinhas,saco 25kg,Premium,68.62,98.24
+175,Farinha 20 - saco 25kg,Farinhas,saco 25kg,Premium,61.24,87.68
+178,Farinha 23 - saco 25kg,Farinhas,saco 25kg,Premium,67.08,96.05
+180,Farinha 25 - saco 25kg,Farinhas,saco 25kg,Premium,67.49,96.63
+182,Farinha 27 - saco 25kg,Farinhas,saco 25kg,Premium,66.4,95.07
+185,Farinha 30 - saco 25kg,Farinhas,saco 25kg,Premium,65.35,93.57
+188,Farinha 2 - saco 5kg,Farinhas,saco 5kg,Tradicional,57.41,82.2
+189,Farinha 3 - saco 5kg,Farinhas,saco 5kg,Tradicional,54.15,77.53
+194,Farinha 8 - saco 5kg,Farinhas,saco 5kg,Tradicional,52.34,74.94
+195,Farinha 9 - saco 5kg,Farinhas,saco 5kg,Tradicional,48.23,69.05
+201,Farinha 15 - saco 5kg,Farinhas,saco 5kg,Tradicional,49.44,70.8
+203,Farinha 17 - saco 5kg,Farinhas,saco 5kg,Tradicional,50.24,71.94
+205,Farinha 19 - saco 5kg,Farinhas,saco 5kg,Tradicional,53.81,77.04
+206,Farinha 20 - saco 5kg,Farinhas,saco 5kg,Tradicional,57.6,82.48
+207,Farinha 21 - saco 5kg,Farinhas,saco 5kg,Tradicional,55.99,80.17
+208,Farinha 22 - saco 5kg,Farinhas,saco 5kg,Tradicional,57.68,82.58
+213,Farinha 27 - saco 5kg,Farinhas,saco 5kg,Tradicional,56.96,81.55
+214,Farinha 28 - saco 5kg,Farinhas,saco 5kg,Tradicional,54.01,77.33
+217,Farinha 31 - saco 5kg,Farinhas,saco 5kg,Tradicional,53.05,75.95
+218,Farinha 1 - saco 5kg,Farinhas,saco 5kg,Premium,65.05,93.14
+221,Farinha 4 - saco 5kg,Farinhas,saco 5kg,Premium,65.59,93.92
+222,Farinha 5 - saco 5kg,Farinhas,saco 5kg,Premium,71.68,102.63
+223,Farinha 6 - saco 5kg,Farinhas,saco 5kg,Premium,64.05,91.7
+228,Farinha 11 - saco 5kg,Farinhas,saco 5kg,Premium,62.02,88.8
+229,Farinha 12 - saco 5kg,Farinhas,saco 5kg,Premium,64.71,92.65
+233,Farinha 16 - saco 5kg,Farinhas,saco 5kg,Premium,68.69,98.35
+236,Farinha 19 - saco 5kg,Farinhas,saco 5kg,Premium,69.46,99.46
+237,Farinha 20 - saco 5kg,Farinhas,saco 5kg,Premium,69.36,99.31
+238,Farinha 21 - saco 5kg,Farinhas,saco 5kg,Premium,63.55,90.99
+239,Farinha 22 - saco 5kg,Farinhas,saco 5kg,Premium,62.85,90.0
+240,Farinha 23 - saco 5kg,Farinhas,saco 5kg,Premium,66.01,94.51
+241,Farinha 24 - saco 5kg,Farinhas,saco 5kg,Premium,64.38,92.18
+243,Farinha 26 - saco 5kg,Farinhas,saco 5kg,Premium,69.87,100.04
+244,Farinha 27 - saco 5kg,Farinhas,saco 5kg,Premium,64.98,93.03
+245,Farinha 28 - saco 5kg,Farinhas,saco 5kg,Premium,67.77,97.03
+246,Farinha 29 - saco 5kg,Farinhas,saco 5kg,Premium,60.33,86.39
+247,Farinha 30 - saco 5kg,Farinhas,saco 5kg,Premium,69.92,100.11
+249,Óleo 1 - garrafa 900ml,Óleos,garrafa 900ml,Tradicional,6.46,9.91
+250,Óleo 2 - garrafa 900ml,Óleos,garrafa 900ml,Tradicional,5.95,9.14
+254,Óleo 6 - garrafa 900ml,Óleos,garrafa 900ml,Tradicional,6.67,10.24
+257,Óleo 9 - garrafa 900ml,Óleos,garrafa 900ml,Tradicional,6.32,9.69
+259,Óleo 11 - garrafa 900ml,Óleos,garrafa 900ml,Tradicional,6.49,9.96
+260,Óleo 12 - garrafa 900ml,Óleos,garrafa 900ml,Tradicional,6.75,10.35
+262,Óleo 14 - garrafa 900ml,Óleos,garrafa 900ml,Tradicional,6.82,10.46
+264,Óleo 16 - garrafa 900ml,Óleos,garrafa 900ml,Tradicional,6.65,10.2
+268,Óleo 20 - garrafa 900ml,Óleos,garrafa 900ml,Tradicional,6.62,10.16
+269,Óleo 21 - garrafa 900ml,Óleos,garrafa 900ml,Tradicional,6.3,9.67
+272,Óleo 24 - garrafa 900ml,Óleos,garrafa 900ml,Tradicional,7.04,10.81
+274,Óleo 26 - garrafa 900ml,Óleos,garrafa 900ml,Tradicional,6.22,9.54
+275,Óleo 27 - garrafa 900ml,Óleos,garrafa 900ml,Tradicional,6.74,10.34
+278,Óleo 30 - garrafa 900ml,Óleos,garrafa 900ml,Tradicional,6.33,9.72
+281,Óleo 2 - garrafa 900ml,Óleos,garrafa 900ml,Premium,7.4,11.36
+282,Óleo 3 - garrafa 900ml,Óleos,garrafa 900ml,Premium,6.69,10.27
+284,Óleo 5 - garrafa 900ml,Óleos,garrafa 900ml,Premium,7.57,11.61
+285,Óleo 6 - garrafa 900ml,Óleos,garrafa 900ml,Premium,8.02,12.31
+290,Óleo 11 - garrafa 900ml,Óleos,garrafa 900ml,Premium,8.08,12.4
+293,Óleo 14 - garrafa 900ml,Óleos,garrafa 900ml,Premium,8.26,12.68
+294,Óleo 15 - garrafa 900ml,Óleos,garrafa 900ml,Premium,7.23,11.1
+295,Óleo 16 - garrafa 900ml,Óleos,garrafa 900ml,Premium,7.48,11.47
+296,Óleo 17 - garrafa 900ml,Óleos,garrafa 900ml,Premium,8.14,12.5
+297,Óleo 18 - garrafa 900ml,Óleos,garrafa 900ml,Premium,8.52,13.07
+299,Óleo 20 - garrafa 900ml,Óleos,garrafa 900ml,Premium,8.44,12.96
+301,Óleo 22 - garrafa 900ml,Óleos,garrafa 900ml,Premium,7.82,12.0
+302,Óleo 23 - garrafa 900ml,Óleos,garrafa 900ml,Premium,7.59,11.65
+303,Óleo 24 - garrafa 900ml,Óleos,garrafa 900ml,Premium,6.94,10.65
+304,Óleo 25 - garrafa 900ml,Óleos,garrafa 900ml,Premium,7.79,11.95
+306,Óleo 27 - garrafa 900ml,Óleos,garrafa 900ml,Premium,7.6,11.67
+307,Óleo 28 - garrafa 900ml,Óleos,garrafa 900ml,Premium,7.64,11.72
+309,Óleo 30 - garrafa 900ml,Óleos,garrafa 900ml,Premium,7.09,10.89
+314,Óleo 4 - lata 18L,Óleos,lata 18L,Tradicional,6.62,10.16
+317,Óleo 7 - lata 18L,Óleos,lata 18L,Tradicional,7.62,11.69
+319,Óleo 9 - lata 18L,Óleos,lata 18L,Tradicional,6.2,9.52
+322,Óleo 12 - lata 18L,Óleos,lata 18L,Tradicional,6.59,10.11
+323,Óleo 13 - lata 18L,Óleos,lata 18L,Tradicional,6.15,9.43
+325,Óleo 15 - lata 18L,Óleos,lata 18L,Tradicional,6.73,10.33
+329,Óleo 19 - lata 18L,Óleos,lata 18L,Tradicional,6.8,10.44
+331,Óleo 21 - lata 18L,Óleos,lata 18L,Tradicional,6.4,9.82
+334,Óleo 24 - lata 18L,Óleos,lata 18L,Tradicional,5.97,9.17
+338,Óleo 28 - lata 18L,Óleos,lata 18L,Tradicional,5.94,9.11
+339,Óleo 29 - lata 18L,Óleos,lata 18L,Tradicional,6.46,9.92
+341,Óleo 31 - lata 18L,Óleos,lata 18L,Tradicional,7.2,11.04
+342,Óleo 1 - lata 18L,Óleos,lata 18L,Premium,7.18,11.02
+348,Óleo 7 - lata 18L,Óleos,lata 18L,Premium,8.03,12.32
+351,Óleo 10 - lata 18L,Óleos,lata 18L,Premium,8.88,13.63
+352,Óleo 11 - lata 18L,Óleos,lata 18L,Premium,8.58,13.17
+353,Óleo 12 - lata 18L,Óleos,lata 18L,Premium,7.58,11.63
+354,Óleo 13 - lata 18L,Óleos,lata 18L,Premium,6.62,10.15
+355,Óleo 14 - lata 18L,Óleos,lata 18L,Premium,7.63,11.71
+356,Óleo 15 - lata 18L,Óleos,lata 18L,Premium,7.7,11.82
+358,Óleo 17 - lata 18L,Óleos,lata 18L,Premium,7.7,11.82
+359,Óleo 18 - lata 18L,Óleos,lata 18L,Premium,7.58,11.63
+360,Óleo 19 - lata 18L,Óleos,lata 18L,Premium,7.31,11.22
+361,Óleo 20 - lata 18L,Óleos,lata 18L,Premium,7.96,12.21
+362,Óleo 21 - lata 18L,Óleos,lata 18L,Premium,8.13,12.48
+363,Óleo 22 - lata 18L,Óleos,lata 18L,Premium,7.45,11.43
+365,Óleo 24 - lata 18L,Óleos,lata 18L,Premium,7.37,11.31
+366,Óleo 25 - lata 18L,Óleos,lata 18L,Premium,7.31,11.21
+370,Óleo 29 - lata 18L,Óleos,lata 18L,Premium,6.65,10.21
+371,Óleo 30 - lata 18L,Óleos,lata 18L,Premium,7.94,12.18
+372,Óleo 31 - lata 18L,Óleos,lata 18L,Premium,6.94,10.64
+373,Raçõe 1 - saco 30kg,Rações,saco 30kg,Tradicional,48.35,71.92
+374,Raçõe 2 - saco 30kg,Rações,saco 30kg,Tradicional,53.12,79.02
+376,Raçõe 4 - saco 30kg,Rações,saco 30kg,Tradicional,44.57,66.3
+377,Raçõe 5 - saco 30kg,Rações,saco 30kg,Tradicional,43.79,65.14
+379,Raçõe 7 - saco 30kg,Rações,saco 30kg,Tradicional,47.95,71.33
+381,Raçõe 9 - saco 30kg,Rações,saco 30kg,Tradicional,50.67,75.37
+388,Raçõe 16 - saco 30kg,Rações,saco 30kg,Tradicional,47.5,70.65
+389,Raçõe 17 - saco 30kg,Rações,saco 30kg,Tradicional,49.16,73.13
+390,Raçõe 18 - saco 30kg,Rações,saco 30kg,Tradicional,47.64,70.86
+396,Raçõe 24 - saco 30kg,Rações,saco 30kg,Tradicional,50.8,75.57
+404,Raçõe 1 - saco 30kg,Rações,saco 30kg,Premium,58.11,86.45
+405,Raçõe 2 - saco 30kg,Rações,saco 30kg,Premium,57.11,84.95
+406,Raçõe 3 - saco 30kg,Rações,saco 30kg,Premium,51.14,76.07
+407,Raçõe 4 - saco 30kg,Rações,saco 30kg,Premium,61.18,91.01
+409,Raçõe 6 - saco 30kg,Rações,saco 30kg,Premium,58.96,87.71
+410,Raçõe 7 - saco 30kg,Rações,saco 30kg,Premium,55.21,82.13
+411,Raçõe 8 - saco 30kg,Rações,saco 30kg,Premium,60.02,89.27
+413,Raçõe 10 - saco 30kg,Rações,saco 30kg,Premium,53.82,80.06
+414,Raçõe 11 - saco 30kg,Rações,saco 30kg,Premium,51.44,76.52
+417,Raçõe 14 - saco 30kg,Rações,saco 30kg,Premium,55.38,82.37
+418,Raçõe 15 - saco 30kg,Rações,saco 30kg,Premium,54.56,81.15
+419,Raçõe 16 - saco 30kg,Rações,saco 30kg,Premium,58.3,86.72
+423,Raçõe 20 - saco 30kg,Rações,saco 30kg,Premium,57.64,85.74
+425,Raçõe 22 - saco 30kg,Rações,saco 30kg,Premium,52.85,78.61
+428,Raçõe 25 - saco 30kg,Rações,saco 30kg,Premium,56.6,84.19
+430,Raçõe 27 - saco 30kg,Rações,saco 30kg,Premium,55.36,82.34
+434,Raçõe 31 - saco 30kg,Rações,saco 30kg,Premium,58.42,86.9
+435,Raçõe 1 - saco 15kg,Rações,saco 15kg,Tradicional,49.38,73.46
+440,Raçõe 6 - saco 15kg,Rações,saco 15kg,Tradicional,46.85,69.69
+442,Raçõe 8 - saco 15kg,Rações,saco 15kg,Tradicional,50.26,74.77
+443,Raçõe 9 - saco 15kg,Rações,saco 15kg,Tradicional,54.28,80.75
+444,Raçõe 10 - saco 15kg,Rações,saco 15kg,Tradicional,45.61,67.84
+446,Raçõe 12 - saco 15kg,Rações,saco 15kg,Tradicional,46.95,69.83
+447,Raçõe 13 - saco 15kg,Rações,saco 15kg,Tradicional,50.26,74.76
+448,Raçõe 14 - saco 15kg,Rações,saco 15kg,Tradicional,49.26,73.28
+450,Raçõe 16 - saco 15kg,Rações,saco 15kg,Tradicional,39.95,59.43
+452,Raçõe 18 - saco 15kg,Rações,saco 15kg,Tradicional,45.15,67.17
+453,Raçõe 19 - saco 15kg,Rações,saco 15kg,Tradicional,47.69,70.94
+456,Raçõe 22 - saco 15kg,Rações,saco 15kg,Tradicional,49.96,74.32
+457,Raçõe 23 - saco 15kg,Rações,saco 15kg,Tradicional,53.48,79.55
+458,Raçõe 24 - saco 15kg,Rações,saco 15kg,Tradicional,39.87,59.3
+459,Raçõe 25 - saco 15kg,Rações,saco 15kg,Tradicional,47.11,70.07
+460,Raçõe 26 - saco 15kg,Rações,saco 15kg,Tradicional,48.9,72.74
+462,Raçõe 28 - saco 15kg,Rações,saco 15kg,Tradicional,47.01,69.92
+464,Raçõe 30 - saco 15kg,Rações,saco 15kg,Tradicional,45.29,67.36
+465,Raçõe 31 - saco 15kg,Rações,saco 15kg,Tradicional,50.09,74.51
+467,Raçõe 2 - saco 15kg,Rações,saco 15kg,Premium,56.97,84.74
+469,Raçõe 4 - saco 15kg,Rações,saco 15kg,Premium,56.97,84.74
+471,Raçõe 6 - saco 15kg,Rações,saco 15kg,Premium,58.49,87.01
+472,Raçõe 7 - saco 15kg,Rações,saco 15kg,Premium,57.04,84.85
+473,Raçõe 8 - saco 15kg,Rações,saco 15kg,Premium,54.53,81.11
+478,Raçõe 13 - saco 15kg,Rações,saco 15kg,Premium,52.63,78.29
+479,Raçõe 14 - saco 15kg,Rações,saco 15kg,Premium,58.07,86.38
+481,Raçõe 16 - saco 15kg,Rações,saco 15kg,Premium,60.28,89.67
+484,Raçõe 19 - saco 15kg,Rações,saco 15kg,Premium,60.02,89.28
+486,Raçõe 21 - saco 15kg,Rações,saco 15kg,Premium,54.45,81.0
+487,Raçõe 22 - saco 15kg,Rações,saco 15kg,Premium,54.71,81.38
+490,Raçõe 25 - saco 15kg,Rações,saco 15kg,Premium,57.16,85.03
+491,Raçõe 26 - saco 15kg,Rações,saco 15kg,Premium,54.55,81.14
+494,Raçõe 29 - saco 15kg,Rações,saco 15kg,Premium,54.95,81.75
+495,Raçõe 30 - saco 15kg,Rações,saco 15kg,Premium,51.79,77.04
